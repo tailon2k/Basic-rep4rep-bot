@@ -8,7 +8,7 @@ Basic Steam comment bot created for personal use, designed to work with rep4rep.
 
 2. Download this repository.
 
-3. Edit `config.js` with your data. You can get the API key here: [rep4rep API Key](https://rep4rep.com/user/settings/).
+3. Edit `config.js` with your data. You can get the API key [here](https://rep4rep.com/user/settings/).
 
 4. Open the terminal in the same path as the bot.
 
